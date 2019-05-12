@@ -4,5 +4,6 @@ i = 0
 while i < colection.length 
 save = yield collection [i] 
 if save == true 
-  modified.push(collection)
+  modified.push(collection[i])
+  
 end
