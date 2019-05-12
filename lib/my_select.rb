@@ -5,5 +5,6 @@ while i < colection.length
 save = yield collection [i] 
 if save == true 
   modified.push(collection[i])
-endi
+end
+i=
 end
