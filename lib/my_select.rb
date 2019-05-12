@@ -1,5 +1,5 @@
 def my_select(collection)
-modified =[]
+new_collection =[]
 i = 0 
 while i < colection.length 
 save = yield collection [i] 
