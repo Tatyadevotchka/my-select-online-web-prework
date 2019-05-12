@@ -6,5 +6,5 @@ save = yield collection [i]
 if save == true 
   modified.push(collection[i])
 end
-i=
+i += 1
 end
